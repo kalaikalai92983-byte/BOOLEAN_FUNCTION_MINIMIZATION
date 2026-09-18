@@ -46,7 +46,7 @@ endmodule
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
-Developed by:SANTHOSH SIVAKUMAR RegisterNumber:25013000
+Developed by:KALAIMARAN I RegisterNumber:212225230120
 
 //Program to compute the function f1=a'b'c'd'+ac'd'+b'cd'+a'bcd+bc'd //f2=xy'z+x'y'z+w'xy+wx'y+wxy // simplify the logic using Boolean minimization/k map //compute f2 and write verilog code for f2 as like f1
 
